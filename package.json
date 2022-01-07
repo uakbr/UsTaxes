@@ -17,7 +17,7 @@
     "@types/redux-logger": "^3.0.6",
     "ajv": "^7.0.4",
     "node-fetch": "^2.6.1",
-    "pdf-lib": "^1.16.0",
+    "pdf-lib": "^1.17.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hook-form": "^6.15.1",
